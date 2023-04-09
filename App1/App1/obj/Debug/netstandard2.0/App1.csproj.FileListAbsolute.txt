@@ -1,0 +1,15 @@
+D:\PROJECTS\Xamarin\sideBar\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+D:\PROJECTS\Xamarin\sideBar\App1\App1\bin\Debug\netstandard2.0\App1.dll
+D:\PROJECTS\Xamarin\sideBar\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+D:\PROJECTS\Xamarin\sideBar\App1\App1\obj\Debug\netstandard2.0\App1.csproj.AssemblyReference.cache
+D:\PROJECTS\Xamarin\sideBar\App1\App1\obj\Debug\netstandard2.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\Xamarin\sideBar\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\PROJECTS\Xamarin\sideBar\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\PROJECTS\Xamarin\sideBar\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+D:\PROJECTS\Xamarin\sideBar\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+D:\PROJECTS\Xamarin\sideBar\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Xamarin\sideBar\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\PROJECTS\Xamarin\sideBar\App1\App1\obj\Debug\netstandard2.0\App1.dll
+D:\PROJECTS\Xamarin\sideBar\App1\App1\obj\Debug\netstandard2.0\refint\App1.dll
+D:\PROJECTS\Xamarin\sideBar\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+D:\PROJECTS\Xamarin\sideBar\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
