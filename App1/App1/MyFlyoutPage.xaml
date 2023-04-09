@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FlyoutPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:local="clr-namespace:App1"
+            x:Class="App1.MyFlyoutPage">
+
+    <FlyoutPage.Flyout>
+        <ContentPage Title="Menu">
+            <StackLayout>
+                <Button Text="Page 1" Clicked="Page1_Clicked"/>
+                <Button Text="Page 2" Clicked="Page2_Clicked"/>
+            </StackLayout>
+        </ContentPage>
+    </FlyoutPage.Flyout>
+
+    <FlyoutPage.Detail>
+        <ContentPage>
+            <StackLayout>
+                <Button Text="Открыть/закрыть меню" Clicked="HandleMenuButtonClicked"/>
+                <Label Text="Welcome to Xamarin.Forms!"
+                       HorizontalOptions="Center"
+                       VerticalOptions="CenterAndExpand" />
+            </StackLayout>
+        </ContentPage>
+    </FlyoutPage.Detail>
+
+</FlyoutPage>

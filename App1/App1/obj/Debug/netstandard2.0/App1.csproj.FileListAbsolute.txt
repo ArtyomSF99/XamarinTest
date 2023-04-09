@@ -13,3 +13,4 @@ D:\PROJECTS\Xamarin\sideBar\App1\App1\obj\Debug\netstandard2.0\App1.dll
 D:\PROJECTS\Xamarin\sideBar\App1\App1\obj\Debug\netstandard2.0\refint\App1.dll
 D:\PROJECTS\Xamarin\sideBar\App1\App1\obj\Debug\netstandard2.0\App1.pdb
 D:\PROJECTS\Xamarin\sideBar\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+D:\PROJECTS\Xamarin\sideBar\App1\App1\obj\Debug\netstandard2.0\MyFlyoutPage.xaml.g.cs
